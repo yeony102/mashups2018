@@ -1,4 +1,4 @@
-#Mashups Week02
+# Mashups Week02
 I made a single html+css page containing the information in the JSON 
 file I found here: 
 https://developers.google.com/search/docs/data-types/recipe
