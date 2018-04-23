@@ -1,0 +1,11 @@
+.DS_Store
+*.psd
+*.avi
+*.mkv
+*.mp4
+*.wav
+*.sketch
+blog/
+backup/
+fonts/
+
